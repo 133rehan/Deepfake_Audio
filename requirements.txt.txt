@@ -1,7 +1,0 @@
-streamlit
-numpy
-requests
-joblib
-librosa
-matplotlib
-moviepy
